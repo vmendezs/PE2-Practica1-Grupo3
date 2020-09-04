@@ -1,1 +1,2 @@
-# PE2-Practica1-Grupo3
+# timers_and_timeouts
+Example code to write a general timer struct in C to count tics of time on a microcontroller environment
